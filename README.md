@@ -2,6 +2,11 @@
 
 My name is Kazybek and I'm iOS Developer
 
+
+
+[![telegram: kazeke](https://img.shields.io/badge/-kazeke-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/kzhapparkulov)](https://t.me/kzhapparkulov)
+[![Linkedin: kazeke](https://img.shields.io/badge/-kazeke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kazybek-zhapparkulov/)](https://www.linkedin.com/in/kazybek-zhapparkulov/)
+
 <!--
 **kazekehub/kazekehub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
