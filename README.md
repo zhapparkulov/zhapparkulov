@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sälem 👋
 
 My name is Kazybek and I'm iOS Developer
 
