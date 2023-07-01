@@ -1,6 +1,6 @@
 ### Sälem 👋
 
-My name is Kazybek and I'm iOS Developer
+My name is Kazybek and I'm Mobile Developer
 
 
 
