@@ -1,4 +1,5 @@
-### Sälem 👋
+### Sälem 👋   ![Profile Views](https://shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/zhapparkulov/visitor)
+
 
 My name is Kazybek and I'm Mobile Developer
 
