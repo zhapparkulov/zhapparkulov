@@ -1,5 +1,5 @@
 ### Sälem 👋   
-![Profile Views](https://komarev.com/ghpvc/?username=zhapparkulov&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=zhapparkulov&color=orange)
 
 
 My name is Kazybek and I'm Mobile Developer
